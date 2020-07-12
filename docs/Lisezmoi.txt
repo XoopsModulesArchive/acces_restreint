@@ -1,0 +1,37 @@
+Nom du module         : Accès Restreint
+Version numéro        : 1.0
+Développeur du module : Niluge_KiWi
+
+
+Description du Module
+Ce module a été créé pour afficher ou télécharger un fichier uniquement pour les groupes autorisés.
+Vous pouvez (et devriez) protéger le fichier avec un .htaccess (deny from all).
+Le script file.php "lit" le fichier au visiteur, comme cela l'url réelle du fichier 
+est cachée et inaccessible(si vous avez mis un .htaccess).
+
+Vous pouvez renommer le module très simplement:
+1/ renommer le répertoire du module
+2/ changer le nom du répertoire du module dans le fichier xoops_version.php
+ligne 37:
+$modversion['dirname'] = "acces_restreint";
+
+
+Licence
+Ce module est diffusé sous licence GPL. Voir le fichier license.txt pour plus de détails.
+Niluge_KiWi peut être contacté à kiwiiii@gmail.com
+
+
+Langages
+Les traductions peuvent être envoyées et récupérées sur le site de développement:
+http://xoops-demo.niluge-kiwi.info
+
+
+Crédits
+Ce module a été fait pour LionHell de frxoops.org
+
+
+Feedback
+Pour toute suggestion, commentaires, rapports de bugs, et demandes d'améliorations, 
+visitez le site de développement:
+http://xoops-demo.niluge-kiwi.info
+Ou contactez moi par email : kiwiiii@gmail.com

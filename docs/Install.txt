@@ -1,0 +1,10 @@
+Module Name      : Accès Restreint
+Version Number   : 1.0
+Module developer : Niluge_KiWi
+
+Install Instructions
+1. Upload the acces_restreint directory to XOOPS_ROOT_URL/modules/
+
+2. Log in to your site as administrator.
+
+3. Install the module using the XOOPS module administration panel at 'System Admin -> Modules'.

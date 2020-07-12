@@ -1,0 +1,19 @@
+Nom du module         : Accès Restreint
+Version numéro        : 1.0
+Développeur du module : Niluge_KiWi
+
+Instructions d'installation:
+1. Uploader le répertoire acces_restreint dans XOOPS_ROOT_URL/modules/
+
+2. Connectez vous sur votre site en temps qu'administrateur
+
+3. Installez le module en passant par l'administration Xoops: 'Système Admin -> Modules'.
+
+4. Configurer : renseigner l'url vers le fichier à afficher/télécharger
+
+5. (non indispensable) Protéger le fichier par .htaccess :
+
+S'il est dans un répertoire seul, créer dans ce répertoire un fichier .htaccess contenant
+
+deny from all
+
